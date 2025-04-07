@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GoFood/static/css/main.2fada775.css",
-    "main.js": "/GoFood/static/js/main.6a7bc481.js",
+    "main.js": "/GoFood/static/js/main.46b6b232.js",
     "static/js/453.d1c5cb69.chunk.js": "/GoFood/static/js/453.d1c5cb69.chunk.js",
     "static/media/cardimg.jpg": "/GoFood/static/media/cardimg.c476f1aa2ad1ca46bd81.jpg",
     "static/media/carousel1.jpeg": "/GoFood/static/media/carousel1.58698905306a338ed267.jpeg",
@@ -10,11 +10,11 @@
     "static/media/trash.svg": "/GoFood/static/media/trash.e485c14441819540f32de975a2ef73a8.svg",
     "index.html": "/GoFood/index.html",
     "main.2fada775.css.map": "/GoFood/static/css/main.2fada775.css.map",
-    "main.6a7bc481.js.map": "/GoFood/static/js/main.6a7bc481.js.map",
+    "main.46b6b232.js.map": "/GoFood/static/js/main.46b6b232.js.map",
     "453.d1c5cb69.chunk.js.map": "/GoFood/static/js/453.d1c5cb69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fada775.css",
-    "static/js/main.6a7bc481.js"
+    "static/js/main.46b6b232.js"
   ]
 }
